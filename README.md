@@ -9,7 +9,7 @@ Pastikan Anda memiliki `Python` dan `pip` terinstal di sistem Anda.
 ## Instalasi
 
 1. Clone repository ini:
-   git clone https://github.com/username/proyek-flask.git
+   git clone https://github.com/Zuuu112233/flaskSimple.git
    cd proyek-flask
 2. Instal dependensi:
    pip install -r requirements.txt
